@@ -1,0 +1,36 @@
+  [{
+        "info":[ {
+            "email": [{
+                "emailString":"ahmed.moh@gmail.com",
+                "emailType":"Gmail"
+            },
+            {
+                "emailString":"ahmed.moh@yahoo.com",
+                "emailType":"Yahoo"
+            }
+            ],
+            "gender": "male",
+            "name":{
+                "first":"ahmed",
+                "last":"moh"
+            }
+        },
+        {
+            "email": [{
+                "emailString":"ali.hassan@gmail.com",
+                "emailType":"Gmail"
+            },
+            {
+                "emailString":"ali.hassan@yahoo.com",
+                "emailType":"Yahoo"
+            }
+            ],
+            "gender": "male",
+            "name":{
+                "first":"ali",
+                "last":"hassan"
+            }
+        }
+        ]
+    }
+]
